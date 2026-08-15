@@ -15,3 +15,5 @@ bcrypt==4.2.0
 Flask==3.0.3
 gunicorn==23.0.0
 Flask-CORS==4.0.1
+transformers==4.45.2
+torch==2.4.1
